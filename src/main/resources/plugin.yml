@@ -1,4 +1,7 @@
-name: dash_ability
-version: '${project.version}'
+name: DashAbility
+version: 1.0
 main: me.sheepie.dashability.Dash_ability
-api-version: '1.20'
+api-version: 1.20
+commands:
+  dash:
+    description: Dashes in the direction you are facing.
