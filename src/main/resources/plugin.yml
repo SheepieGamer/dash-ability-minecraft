@@ -1,0 +1,4 @@
+name: dash_ability
+version: '${project.version}'
+main: me.sheepie.dashability.Dash_ability
+api-version: '1.20'
